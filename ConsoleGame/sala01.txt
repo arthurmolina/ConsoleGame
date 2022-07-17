@@ -3,12 +3,8 @@
 L P          |
 |            R
 +---------D--+
-;sala01
-;sala01
-;sala01
-;sala01
-
-
-  | o _
-  +/|)_)
-  |/ \
+Z
+sala01
+sala01
+sala01
+sala01

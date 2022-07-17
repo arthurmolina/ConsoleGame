@@ -19,6 +19,7 @@ namespace ConsoleGame
             //Console.SetCursorPosition(10, 10);
             Salas salas = new Salas();
             salas.Open("./sala01.txt");
+            salas.Draw();
             Console.ReadKey();
 
         }
