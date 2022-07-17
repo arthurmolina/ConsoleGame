@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\bin\Debug\Pastel.dll
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\bin\Debug\Pastel.xml
+C:\Users\User\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CopyComplete
